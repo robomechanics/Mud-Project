@@ -1,0 +1,4 @@
+.venv/
+RS485/
+TMotorCANControl/
+__pycache__/
